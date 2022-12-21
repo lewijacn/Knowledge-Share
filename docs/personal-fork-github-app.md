@@ -28,7 +28,11 @@ If you have configured Repository permissions, its time to select applicable rep
 
 Go to your Profile -> Settings -> Applications (Under "Integrations") -> Configure (Sample Github App) -> Select repos (Under "Repository Access")
 
-### 5. Updating permissions
+### 5. Adding secrets to your repo
+Now that you have your Github app installed and associated with your repo, you can add the needed secrets to your repo for use
+
+
+### 6. Updating permissions
 Any time the permissions change for a Github App, these changes must be reviewed and accepted before they will be enacted for the account
 * This can be done in the applicable repo settings or your own account settings
 
